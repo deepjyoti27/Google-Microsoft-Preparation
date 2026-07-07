@@ -1,0 +1,3 @@
+# NOTES
+# DSA Notes
+# AI NOTES
